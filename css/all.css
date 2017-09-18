@@ -537,7 +537,7 @@ transition: all 0.5s ease-in-out;
 	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
-	text-transform: uppercase;
+	text-transform: none;
 	display: block;
 	margin: 0 0 55px;
 	padding: 5px 0 18px 80px;

@@ -156,7 +156,7 @@
 		margin: 40px auto 0;
 		width: 300px;
 	}
-	.box_contact span.email{font-size: 14px;}
+	.box_contact span.email{text-transform:lowercase;font-size: 14px;}
 	#nav ul a:hover, #nav ul a.active,#nav ul a{border: none;}
 	#wrapper.portfolio #main{padding:93px 0 0 0; }
 	.logo{margin: 0 auto 20px;font-size: 40px;		line-height: 52px;}
